@@ -83,15 +83,18 @@ The system emphasizes **atomic job claiming**, **state-driven execution**, and *
 git clone https://github.com/spexcher/distributed-job-queue.git
 cd distributed-job-queue
 ```
-2. Create virtual environment
+### 2. Create virtual environment
+```bash
 python -m venv venv
 source venv/bin/activate  # Windows: venv\Scripts\activate
-
-3. Install dependencies
+```
+### 3. Install dependencies
+```bash
 pip install -r requirements.txt
-
-4. Start the API server
+```
+### 4. Start the API server
+```bash
 uvicorn app.main:app --reload
-
-5. Start one or more workers
+```
+### 5. Start one or more workers
 python worker.py
