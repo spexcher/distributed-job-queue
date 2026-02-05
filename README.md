@@ -100,3 +100,6 @@ uvicorn app.main:app --reload
 ```bash
 python worker.py
 ```
+
+
+## The frontend is still in the building (job-queue-dashboard)
