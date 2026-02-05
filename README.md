@@ -97,4 +97,6 @@ pip install -r requirements.txt
 uvicorn app.main:app --reload
 ```
 ### 5. Start one or more workers
+```bash
 python worker.py
+```
