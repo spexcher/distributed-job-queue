@@ -107,5 +107,16 @@ uvicorn app.main:app --reload
 python worker.py
 ```
 
+## 🔗 Links
+
+- **Live Demo:** https://spexcher.vercel.app  
+- **GitHub:** https://github.com/spexcher  
+- **LinkedIn:** https://linkedin.com/in/gourabmodak  
+- **Codeforces:** https://codeforces.com/profile/spexcher  
+- **CLIST:** https://clist.by/coder/spexcher  
+- **Email:** gourabmodak28092003@gmail.com
+
+
+---
 
 ## The frontend is still in the building (job-queue-dashboard)
