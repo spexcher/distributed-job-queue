@@ -39,6 +39,12 @@ The system emphasizes **atomic job claiming**, **state-driven execution**, and *
 
 ---
 
+## 🏗️ System Architecture
+
+The diagram below illustrates the backend architecture of **AegisQueue**, highlighting the separation between the control plane, execution workers, and the database used for coordination and fault tolerance.
+
+![AegisQueue Architecture](./architecture.png)
+
 ## 🧠 System Design Overview
 
 - **Concurrency Safety:**  
