@@ -109,7 +109,6 @@ python worker.py
 
 ## 🔗 Links
 
-- **Live Demo:** https://spexcher.vercel.app  
 - **GitHub:** https://github.com/spexcher  
 - **LinkedIn:** https://linkedin.com/in/gourabmodak  
 - **Codeforces:** https://codeforces.com/profile/spexcher  
